@@ -24,7 +24,6 @@
 
 <br />
 <br />
-[![Jonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonnyConnery)](https://github.com/JonnyConnery/)
 
 [website]: https://jonnyc.me
 [twitter]: https://twitter.com/JonathanConnery
